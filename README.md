@@ -4,4 +4,4 @@
 </div>
 
 
-<h3>Autor: Prof. Aloísio S Sousa</h3>
+<h3>Autor: Prof. Aloísio S. Sousa</h3>
